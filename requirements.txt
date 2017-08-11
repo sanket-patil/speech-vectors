@@ -1,3 +1,4 @@
 librosa
 wave
 pyogg
+python_speech_features
