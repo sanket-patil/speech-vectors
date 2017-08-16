@@ -9,4 +9,3 @@ The paper is about learning good representations of input data. Good representat
     - deep learning methods learn compositions of representations (hierarchy of representations)
     - learning yields more abstract, hence more useful representations.
 #### Importance of representations
-
